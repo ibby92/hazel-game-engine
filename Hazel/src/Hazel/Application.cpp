@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #include "Application.h"
 
 namespace Hazel {

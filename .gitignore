@@ -5,3 +5,8 @@ bin-int/*
 
 #Files
 *.user
+Hazel/*.vcxproj
+Hazel/*.filters
+Sandbox/*.vcxproj
+Sandbox/*.filters
+*.sln
